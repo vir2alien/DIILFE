@@ -4,4 +4,5 @@
 - item-nameaffixes.json
 - item-names.json
 - item-runes.json
+
 Скомпилированная программа со всеми необходимыми библиотеками Qt: [DIIRLFE.zip](https://github.com/vir2alien/DIILFE/blob/main/installer/)
