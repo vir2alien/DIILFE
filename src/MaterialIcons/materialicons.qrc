@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MaterialIconsMapping.js</file>
+        <file>MaterialIcons-Regular.ttf</file>
+    </qresource>
+</RCC>
