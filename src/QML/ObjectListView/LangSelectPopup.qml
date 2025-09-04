@@ -1,7 +1,8 @@
-import QtQuick 2.15
-import QtQuick.Controls 2.15
-import QtQuick.Controls.Material 2.15
-import "qrc:/Common"
+import QtQuick
+import QtQuick.Controls
+import QtQuick.Controls.Material
+
+import DIIRLFE 1.0
 
 Popup {id: popup
     property int itmHeight: delegateHeight*2/3

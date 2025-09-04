@@ -1,7 +1,6 @@
 import QtQuick
 import QtQuick.Controls
 import QtQuick.Controls.Material
-import "qrc:/Common"
 
 Dialog {id: control
     property int baseHeight: (header?header.height:0) + (footer?footer.height:0) + padding*2

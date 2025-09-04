@@ -1,6 +1,6 @@
-import QtQuick 2.0
-import QtQuick.Controls 2.15
-import QtQuick.Controls.Material 2.15
+import QtQuick
+import QtQuick.Controls
+import QtQuick.Controls.Material
 import "qrc:/MaterialIconsMapping.js" as MaterialIcons
 
 Label {id: control

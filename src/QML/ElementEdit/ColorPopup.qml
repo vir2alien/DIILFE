@@ -1,9 +1,9 @@
-import QtQuick 2.15
+import QtQuick
 import QtQuick.Controls
 import QtQuick.Controls.Material
 import QtQuick.Layouts
 
-import "qrc:/Common"
+import "../Common"
 
 Popup {id: colorPopup
     width: 350

@@ -19,7 +19,6 @@ int main(int argc, char *argv[]) {
     QFont font("Arial");
     app.setFont(font);
 
-
     QQmlApplicationEngine engine;
     qmlRegisterType<FileHandler>("DIIRLFE", 1, 0, "FileHandler");
 

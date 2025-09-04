@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# Создание директории сборки
+mkdir -p build
+cd build
+
+# Конфигурация
+cmake .. \
+    -DCMAKE_BUILD_TYPE=Release \
+    -DCMAKE_PREFIX_PATH=/path/to/Qt6 \
+    -DCMAKE_INSTALL_PREFIX=/usr/local
+
+# Сборка
+cmake --build . --parallel
+
+# Создание пакета (опционально)
+# cmake --build . --target package

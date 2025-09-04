@@ -6,8 +6,6 @@ import QtQuick.Dialogs
 
 import DIIRLFE 1.0
 
-import "qrc:/Common"
-
 ApplicationWindow {id: window
     visible: true
     width: 800

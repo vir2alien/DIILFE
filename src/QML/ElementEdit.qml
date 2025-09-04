@@ -2,7 +2,7 @@ import QtQuick
 import QtQuick.Controls
 import QtQuick.Layouts
 
-import "qrc:/Common"
+import "Common"
 import "ElementEdit"
 
 Item {id: elementEdit

@@ -1,7 +1,7 @@
 import QtQuick
 import QtQuick.Controls
 
-import "qrc:/Common"
+import "Common"
 
 MenuBar {id: menuBar
     implicitHeight: 30

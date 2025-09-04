@@ -1,10 +1,10 @@
-﻿import QtQuick 2.15
-import QtQuick.Controls 2.15
-import QtQuick.Controls.Material 2.15
-import QtQuick.Controls.impl 2.15
-import QtQuick.Layouts 1.15
-import QtQuick.Templates 2.15 as T
-import "qrc:/Common"
+﻿import QtQuick
+import QtQuick.Controls
+import QtQuick.Controls.Material
+import QtQuick.Controls.impl
+import QtQuick.Layouts
+import QtQuick.Templates as T
+
 ColumnLayout {id: control
     height: btn.height + label.height
     width: 46
